@@ -47,7 +47,7 @@ then created a variable function similar_meal_idx that called on a numpy fuction
 
 I then created a function to print the top 5 similar cuisines to "mexican", that included their name and their similarity variable value.
 
-This was output to a file.  
+This was output to a file using the library sys to print the output to a text file.
 
 NOTE:
     So i spent alot of time trying to figure out how to call the csv file into a spacy model.  I knew that was the route that i wanted to go,
