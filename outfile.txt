@@ -1,0 +1,1 @@
+Top 5 Similar Cuisines based on input:  ['mexican' 'mexican' 'mexican' 'mexican' 'mexican'] [0.06093505 0.06026788 0.03691063 ... 0.00868368 0.0112252  0.13448305]
